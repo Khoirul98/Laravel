@@ -1,2 +1,0 @@
-# Laravel
-bagian route :
